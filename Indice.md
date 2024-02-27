@@ -12,7 +12,8 @@
 		1. [[1. Storia ed evoluzione degli IDS|Storia ed evoluzione degli IDS]]
 		2. [[2. Tipologie di IDS|Tipologie di IDS]]
 		3. [[3. Darktrace panoramica|Darktrace: panoramica]]
-		4. Darktrace: funzionamento
+		4. Darktrace DETECT
+		5. Darktrace RESPOND
 
 - Sperimentazione con Tpot e Darktrace
 	1. Implementazione di Tpot e analisi dei risultati
