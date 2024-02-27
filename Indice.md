@@ -12,12 +12,12 @@
 		1. [[1. Storia ed evoluzione degli IDS|Storia ed evoluzione degli IDS]]
 		2. [[2. Tipologie di IDS|Tipologie di IDS]]
 		3. [[3. Darktrace panoramica|Darktrace: panoramica]]
-		4. Darktrace DETECT
-		5. Darktrace RESPOND
+		4. [[4. Darktrace DETECT|Darktrace DETECT]]
+		5. [[5. Darktrace RESPOND|Darktrace RESPOND]]
 
 - Sperimentazione con Tpot e Darktrace
 	1. Implementazione di Tpot e analisi dei risultati
-		1. Configurazione di base
+		1. [[1. Configurazione di base|Configurazione di base]]
 		2. Simulazione di server in produzione
 		3. Dati raccolti
 		4. Esperienze pratiche durante il tirocinio
