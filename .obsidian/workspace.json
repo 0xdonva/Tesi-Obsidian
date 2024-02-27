@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "8b968675b10c59db",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c98b793427027e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6afc10edae1c24b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/3. Darktrace panoramica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1dff73457aa625b",
+    "type": "split",
+    "children": [
+      {
+        "id": "653b4ce761b1417e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0661468e7a858094",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f45d79920a5c239",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20fdc68f9c2bc7ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fb29c2e1e3688f3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7709cb57851289a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63738787b5a0eb11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/3. Darktrace panoramica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2efbd69861a7d79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/3. Darktrace panoramica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9a5b231b968a47b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a695affdbab0be8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/3. Darktrace panoramica.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "c6afc10edae1c24b",
+  "lastOpenFiles": [
+    "Tesi.canvas",
+    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/2. Tipologie di IDS.md",
+    "Indice.md"
+  ]
+}
