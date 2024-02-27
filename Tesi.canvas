@@ -9,7 +9,10 @@
 		{"id":"9a3a4dceeecd55bb","type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md","x":-160,"y":-2550,"width":400,"height":200},
 		{"id":"123923ad2d723ba4","type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/2. Tipologie di IDS.md","x":-160,"y":-2290,"width":400,"height":200},
 		{"id":"28bea6514d11b9cb","type":"text","text":"1. Concetto di Honeypot","x":-600,"y":-3080,"width":250,"height":60},
-		{"id":"276ace3c68e7747c","type":"text","text":"2. Teoria sugli IDS","x":-600,"y":-2090,"width":250,"height":60}
+		{"id":"d8e294f158ae2f25","x":-160,"y":-2030,"width":400,"height":200,"type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/3. Darktrace panoramica.md"},
+		{"id":"276ace3c68e7747c","type":"text","text":"2. Teoria sugli IDS","x":-600,"y":-1960,"width":250,"height":60},
+		{"id":"01a38a78e11bc82f","x":-160,"y":-1760,"width":400,"height":200,"type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/4. Darktrace DETECT.md"},
+		{"id":"8fbc6395f65c4fd3","x":-160,"y":-1480,"width":400,"height":200,"type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md"}
 	],
 	"edges":[
 		{"id":"735beb766bef4d1f","fromNode":"be774e03f6326ea2","fromSide":"right","toNode":"b98fc4bbc67b99cc","toSide":"left","color":"5"},
@@ -20,6 +23,9 @@
 		{"id":"d84cc1d89107683c","fromNode":"28bea6514d11b9cb","fromSide":"right","toNode":"884dd295387fbc31","toSide":"left"},
 		{"id":"d76266b576a9bf4d","fromNode":"b98fc4bbc67b99cc","fromSide":"right","toNode":"276ace3c68e7747c","toSide":"left"},
 		{"id":"6a0a42de14da006f","fromNode":"276ace3c68e7747c","fromSide":"right","toNode":"9a3a4dceeecd55bb","toSide":"left"},
-		{"id":"6aa1d30cde648c26","fromNode":"276ace3c68e7747c","fromSide":"right","toNode":"123923ad2d723ba4","toSide":"left"}
+		{"id":"6aa1d30cde648c26","fromNode":"276ace3c68e7747c","fromSide":"right","toNode":"123923ad2d723ba4","toSide":"left"},
+		{"id":"de0af5718ae51eb6","fromNode":"276ace3c68e7747c","fromSide":"right","toNode":"d8e294f158ae2f25","toSide":"left"},
+		{"id":"8acbcaf8417300cc","fromNode":"276ace3c68e7747c","fromSide":"right","toNode":"01a38a78e11bc82f","toSide":"left"},
+		{"id":"799371a500369a9e","fromNode":"276ace3c68e7747c","fromSide":"right","toNode":"8fbc6395f65c4fd3","toSide":"left"}
 	]
 }
