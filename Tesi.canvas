@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"be774e03f6326ea2","type":"file","file":"Indice.md","x":-1700,"y":-3292,"width":400,"height":1220},
+		{"id":"b98fc4bbc67b99cc","type":"text","text":"Fondamenti teorici su Honeypot e IDS","x":-980,"y":-3020,"width":250,"height":60},
+		{"id":"2ecaa7ea0f2c5df3","type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/1. Definizione e scopo.md","x":-160,"y":-3520,"width":400,"height":200},
+		{"id":"2b26738351e59dce","type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/2. Tipologie di Honeypot.md","x":-160,"y":-3280,"width":400,"height":200},
+		{"id":"55d8a7fe94237e3e","type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/3. T-Pot panoramica.md","x":-160,"y":-3040,"width":400,"height":200},
+		{"id":"884dd295387fbc31","type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md","x":-160,"y":-2800,"width":400,"height":200},
+		{"id":"9a3a4dceeecd55bb","type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md","x":-160,"y":-2550,"width":400,"height":200},
+		{"id":"123923ad2d723ba4","type":"file","file":"B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/2. Tipologie di IDS.md","x":-160,"y":-2290,"width":400,"height":200},
+		{"id":"28bea6514d11b9cb","type":"text","text":"1. Concetto di Honeypot","x":-600,"y":-3080,"width":250,"height":60},
+		{"id":"276ace3c68e7747c","type":"text","text":"2. Teoria sugli IDS","x":-600,"y":-2090,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"735beb766bef4d1f","fromNode":"be774e03f6326ea2","fromSide":"right","toNode":"b98fc4bbc67b99cc","toSide":"left","color":"5"},
+		{"id":"a768e441bca172e8","fromNode":"b98fc4bbc67b99cc","fromSide":"right","toNode":"28bea6514d11b9cb","toSide":"left"},
+		{"id":"f8dd2261e01a0ddb","fromNode":"28bea6514d11b9cb","fromSide":"right","toNode":"2ecaa7ea0f2c5df3","toSide":"left"},
+		{"id":"2965523c0a29df53","fromNode":"28bea6514d11b9cb","fromSide":"right","toNode":"2b26738351e59dce","toSide":"left"},
+		{"id":"65fe35a67f2aaf59","fromNode":"28bea6514d11b9cb","fromSide":"right","toNode":"55d8a7fe94237e3e","toSide":"left"},
+		{"id":"d84cc1d89107683c","fromNode":"28bea6514d11b9cb","fromSide":"right","toNode":"884dd295387fbc31","toSide":"left"},
+		{"id":"d76266b576a9bf4d","fromNode":"b98fc4bbc67b99cc","fromSide":"right","toNode":"276ace3c68e7747c","toSide":"left"},
+		{"id":"6a0a42de14da006f","fromNode":"276ace3c68e7747c","fromSide":"right","toNode":"9a3a4dceeecd55bb","toSide":"left"},
+		{"id":"6aa1d30cde648c26","fromNode":"276ace3c68e7747c","fromSide":"right","toNode":"123923ad2d723ba4","toSide":"left"}
+	]
+}
