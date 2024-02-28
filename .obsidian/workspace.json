@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md"
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "86348a411ecba571",
   "lastOpenFiles": [
+    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/3. Darktrace panoramica.md",
+    "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
+    "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/3. T-Pot panoramica.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/2. Tipologie di IDS.md",
-    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/3. Darktrace panoramica.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/4. Darktrace DETECT.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
     "Tesi.canvas",
