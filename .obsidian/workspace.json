@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
+                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb29c2e1e3688f3c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
+                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
+                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md"
+                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md"
               }
             }
           }
@@ -149,17 +148,17 @@
   },
   "active": "86348a411ecba571",
   "lastOpenFiles": [
-    "Tesi.canvas",
-    "Indice.md",
+    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
+    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/2. Tipologie di IDS.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/3. Darktrace panoramica.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/4. Darktrace DETECT.md",
+    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
+    "Tesi.canvas",
+    "Indice.md",
     "A - Introduzione/2. Scopo della tesi.md",
     "C - Sperimentazione con Tpot e Darktrace/1. Implementazione di T-Pot e analisi dei risultati/Senza nome.md",
     "C - Sperimentazione con Tpot e Darktrace/1. Implementazione di T-Pot e analisi dei risultati/1. Configurazione di base.md",
     "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/1. Definizione e scopo.md",
-    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
-    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/2. Tipologie di IDS.md",
-    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
     "C - Sperimentazione con Tpot e Darktrace/1. Implementazione di T-Pot e analisi dei risultati"
   ]
 }
