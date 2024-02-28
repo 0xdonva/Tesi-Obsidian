@@ -15,8 +15,8 @@
               "state": {
                 "file": "Tesi.canvas",
                 "viewState": {
-                  "x": -144.04984467305366,
-                  "y": -2394.5203154229107,
+                  "x": -111.34572680137342,
+                  "y": -1896.5257932859604,
                   "zoom": -0.5719687773869582
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
+                "file": "Tesi.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
+                "file": "Tesi.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md"
+                "file": "Tesi.canvas"
               }
             }
           }
