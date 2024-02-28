@@ -16,7 +16,7 @@
                 "file": "Tesi.canvas",
                 "viewState": {
                   "x": -730,
-                  "y": -2400,
+                  "y": -2977.694117647059,
                   "zoom": -1.371968777386958
                 }
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
+                "file": "Tesi.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
+                "file": "Tesi.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md"
+                "file": "Tesi.canvas"
               }
             }
           }
