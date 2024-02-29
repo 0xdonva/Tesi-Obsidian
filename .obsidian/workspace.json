@@ -11,14 +11,11 @@
             "id": "86348a411ecba571",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tesi.canvas",
-                "viewState": {
-                  "x": 40,
-                  "y": -1660,
-                  "zoom": -0.8
-                }
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -34,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb29c2e1e3688f3c",
@@ -102,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/4. Darktrace DETECT.md",
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/4. Darktrace DETECT.md",
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/4. Darktrace DETECT.md"
+                "file": "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md"
               }
             }
           }
@@ -163,9 +158,10 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "b987463fccac1472",
+  "active": "86348a411ecba571",
   "lastOpenFiles": [
     "Tesi.canvas",
+    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/4. Darktrace DETECT.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
     "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/1. Definizione e scopo.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/5. Darktrace RESPOND.md",
@@ -173,7 +169,6 @@
     "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/4. Tpot scopo e utilità in ambiente di tirocinio.md",
     "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/3. T-Pot panoramica.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/2. Tipologie di IDS.md",
-    "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/4. Darktrace DETECT.md",
     "Indice.md",
     "A - Introduzione/2. Scopo della tesi.md",
     "C - Sperimentazione con Tpot e Darktrace/1. Implementazione di T-Pot e analisi dei risultati/Senza nome.md",
