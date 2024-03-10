@@ -11,11 +11,14 @@
             "id": "86348a411ecba571",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/2. Tipologie di Honeypot.md",
-                "mode": "source",
-                "source": false
+                "file": "Tesi.canvas",
+                "viewState": {
+                  "x": -1374.4135091726685,
+                  "y": -2532.5724441289376,
+                  "zoom": -1.0209397214993463
+                }
               }
             }
           },
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/2. Tipologie di Honeypot.md",
+                "file": "Tesi.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/2. Tipologie di Honeypot.md",
+                "file": "Tesi.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/2. Tipologie di Honeypot.md"
+                "file": "Tesi.canvas"
               }
             }
           }
@@ -160,6 +163,8 @@
   },
   "active": "86348a411ecba571",
   "lastOpenFiles": [
+    "C - Sperimentazione con Tpot e Darktrace/1. Implementazione di T-Pot e analisi dei risultati/1. Configurazione di base.md",
+    "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/2. Tipologie di Honeypot.md",
     "B - Fondamenti teorici su Honeypot e IDS/1. Concetto di honeypot/1. Definizione e scopo.md",
     "B - Fondamenti teorici su Honeypot e IDS/2. Teoria sugli IDS/1. Storia ed evoluzione degli IDS.md",
     "Tesi.canvas",
@@ -172,7 +177,6 @@
     "Indice.md",
     "A - Introduzione/2. Scopo della tesi.md",
     "C - Sperimentazione con Tpot e Darktrace/1. Implementazione di T-Pot e analisi dei risultati/Senza nome.md",
-    "C - Sperimentazione con Tpot e Darktrace/1. Implementazione di T-Pot e analisi dei risultati/1. Configurazione di base.md",
     "C - Sperimentazione con Tpot e Darktrace/1. Implementazione di T-Pot e analisi dei risultati"
   ]
 }
